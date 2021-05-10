@@ -2,6 +2,8 @@
 ## ToastrJS is a JavaScript library for Gnome / Growl type non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
 # Setup Guide
+> Download `toastr css & js file`
+> 
 > **N.B.** Try to update CDN Link
 > [toastrn latest `toastr.min.css` & `toastr.min.js`](https://cdnjs.com/libraries/toastr.js/latest)
 
